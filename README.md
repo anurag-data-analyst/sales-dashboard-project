@@ -17,4 +17,4 @@ Power BI | Excel
 - Monthly sales performance tracking
 
 ### Dashboard Preview
-![Dashboard](Screenshot 2026-04-20 114104.png)
+![Dashboard](./Screenshot202026-04-20%20114104.png)
