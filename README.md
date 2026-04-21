@@ -44,4 +44,4 @@ The dashboard provides insights into booking status, cancellation rates, and cus
 - Trends help identify peak booking periods
 
 ## 📷 Dashboard Preview
-![Excel Dashboard](Screenshot%202026-04-20%20110414.png)
+![Excel Dashboard](./Screenshot%202026-04-21%20110414.png)
