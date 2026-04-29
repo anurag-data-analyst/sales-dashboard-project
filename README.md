@@ -18,3 +18,6 @@ Power BI | Excel
 
 ### Dashboard Preview
 ![Dashboard](./Screenshot%202026-04-20%20114104.png)
+
+## 🚀 Conclusion
+This project analyzes sales data to identify trends and key insights, helping in better business decision-making.  
